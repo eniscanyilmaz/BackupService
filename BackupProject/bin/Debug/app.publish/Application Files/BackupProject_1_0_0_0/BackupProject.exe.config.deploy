@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2" />
+    </startup>
+  <appSettings>
+    <add key="Server" value="ftp.site4now.net"/>
+    <add key="Username" value ="asteroidstudios-001"/>
+    <add key="Password" value="alperen1234"/>
+    <add key="MailSender" value="enteryourmail"/>
+    <add key="MailSenderPassword" value="enteryourmailpassword"/>
+    <add key="mailAdresses" value="testmail@gmail.com;testmail2@gmail.com;testmail3@gmail.com" />
+  </appSettings>
+
+</configuration>

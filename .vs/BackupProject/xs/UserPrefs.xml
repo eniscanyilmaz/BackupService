@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{AEFE66EA-168D-4DA7-8FEE-6F8057051B44}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BackupProject/Forms/BackupForm.cs">
+    <Files>
+      <File FileName="BackupProject/Forms/BackupForm.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BackupProject" expanded="True" selected="True">
+            <Node name="BackupProject" expanded="True">
+              <Node name="Forms" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BackupProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
